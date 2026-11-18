@@ -39,12 +39,10 @@ AI Engineer, Data Science Intern
 Projects are being added as I finish them. Each one will have
 the problem, the dataset, my approach, and the results.
 
+## 📫 Connect with me
 
--->
+- LinkedIn: [vipin-kumar89](https://linkedin.com/in/vipin-kumar89)
+- GitHub: [vipinkumar-ML](https://github.com/vipinkumar-ML)
+- Email : chhonkar761818@gmail.com
 
----
 
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/vipin-kumar89
-- Email: [your email]
