@@ -1,25 +1,50 @@
-# Hey, I'm Vipin 👋
+# Vipin Kumar
 
-I'm an AI/ML student from Mathura, India.
+**Aspiring AI/ML Engineer** | Student from Mathura, India
 
-I got into machine learning because [apni real wajah likho, jaise:
-"I wanted to understand how apps like YouTube know what I want to watch"].
-Right now I'm learning by building things, breaking them, and fixing them
-until they work.
+I'm learning machine learning by building things and writing down
+what I find. I like cleaning messy data, training models, and
+figuring out why a model fails before trying to improve it.
 
-## What I enjoy
-- Turning messy data into something that makes sense
-- Training a model and seeing the accuracy go up after hours of tweaking
-- Learning one new thing every week and writing it down
+I'm looking for an **AI/ML or Data Science internship** where I can
+work on real problems and learn from a team.
 
-## My toolbox
-Python, SQL, NumPy, Pandas, Matplotlib, Scikit-learn,
-TensorFlow / PyTorch, Git
+**Roles I'm aiming for:** AI/ML Engineer, Python Developer,
+AI Engineer, Data Science Intern
 
-## What I'm up to
-I'm building my first projects and sharing them here.
-Some will be messy and that's okay, that's how I learn.
+---
 
-## Let's connect
-If you're also learning ML or want to talk about projects,
-say hi on LinkedIn: https://www.linkedin.com/in/vipin-kumar89
+## Skills
+
+| Area | What I use |
+|---|---|
+| Programming | Python, SQL |
+| Data analysis | NumPy, Pandas, Matplotlib |
+| Machine learning | Scikit-learn: regression, classification, clustering, model evaluation |
+| Deep learning | TensorFlow / PyTorch: neural networks |
+| NLP | Text preprocessing, TF-IDF, text classification |
+| Tools | Git, GitHub, Jupyter Notebook, Google Colab |
+
+---
+
+## What I'm working on now
+
+- Building my first end-to-end ML project: [project name, e.g. House Price Prediction]
+- Learning how to deploy a model with Flask / FastAPI
+
+---
+
+## Projects
+
+Projects are being added as I finish them. Each one will have
+the problem, the dataset, my approach, and the results.
+
+
+-->
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/vipin-kumar89
+- Email: [your email]
